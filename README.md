@@ -2,8 +2,7 @@
 
 *A Python tool that decodes WhatsApp group chats and generates a beautifully formatted, terminal-style analytics report.*
 
-![GroupDNA Report Screenshot](report_screenshot.png) *(Note: Replace this placeholder with the actual screenshot of your terminal output!)*
-
+![GroupDNA Report Screenshot](report_screenshot.png)
 ## 📌 Project Overview
 GroupDNA is a behavioral analytics parser designed to analyze WhatsApp export `.txt` files. It reads messy, raw messaging data, cleans it, and outputs a visual report detailing group activity, the most active participants, response speed, silent streaks, and individual personality archetypes (e.g., "The Night Owl", "The Group Mom"). 
 
